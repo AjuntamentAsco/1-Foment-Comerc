@@ -1,0 +1,183 @@
+{
+  "repo_notes": [
+    {
+      "content": "Proposta de wiki orientada a la tramitació documental i administrativa de les subvencions per al foment del comerç. Genera tota la wiki íntegrament en català. Prioritza una lectura pràctica per fases de l'expedient, identifica responsables, documents d'entrada i de sortida, comprovacions, terminis i evidències. No inventis formularis, terminis, òrgans, documents ni requisits que no constin en les bases. Diferencia clarament la tramitació de les persones beneficiàries i la dels comerços adherits."
+    }
+  ],
+  "pages": [
+    {
+      "title": "Guia de tramitació documental",
+      "purpose": "Oferir una visió general del procediment administratiu, des de la preparació de la convocatòria fins al tancament de l'expedient, amb els actors, documents i punts de control principals",
+      "page_notes": [
+        {
+          "content": "Inclou un esquema cronològic del circuit documental i separa les actuacions de la ciutadania, els comerços i l'Ajuntament."
+        }
+      ]
+    },
+    {
+      "title": "Marc regulador i documents de referència",
+      "purpose": "Identificar les bases reguladores, la convocatòria, la normativa de subvencions, les publicacions oficials i la resta de documents que fonamenten la tramitació",
+      "parent": "Guia de tramitació documental",
+      "page_notes": [
+        {
+          "content": "Indica la funció de cada document dins de l'expedient i evita convertir aquesta pàgina en una explicació jurídica genèrica."
+        }
+      ]
+    },
+    {
+      "title": "Actors, unitats responsables i funcions",
+      "purpose": "Descriure qui intervé en cada fase: persones sol·licitants, comerços adherits, registre, Unitat d'Ajuts i Subvencions, àrees municipals i òrgans de resolució",
+      "parent": "Guia de tramitació documental",
+      "page_notes": [
+        {
+          "content": "Presenta una matriu clara entre actor, actuació, document que rep, document que emet i moment del procediment."
+        }
+      ]
+    },
+    {
+      "title": "Preparació i publicació de la convocatòria",
+      "purpose": "Explicar les actuacions i evidències documentals prèvies a l'obertura del termini, incloses l'aprovació, la disponibilitat pressupostària i les publicacions exigides",
+      "parent": "Guia de tramitació documental",
+      "page_notes": [
+        {
+          "content": "Diferencia les previsions de les bases de les dades concretes que ha de fixar cada convocatòria."
+        }
+      ]
+    },
+    {
+      "title": "Expedient de la persona beneficiària",
+      "purpose": "Organitzar la tramitació individual de l'ajut des de la presentació de la sol·licitud fins a la notificació, l'activació de la targeta i el tancament",
+      "page_notes": [
+        {
+          "content": "Utilitza una perspectiva d'expedient: entrada, comprovació, esmena si escau, informe, resolució, notificació i evidències finals."
+        }
+      ]
+    },
+    {
+      "title": "Modalitats, requisits i incompatibilitats",
+      "purpose": "Relacionar cada modalitat d'ajut amb l'import, els requisits generals i específics, les incompatibilitats i els límits aplicables",
+      "parent": "Expedient de la persona beneficiària",
+      "page_notes": [
+        {
+          "content": "Presenta una taula comparativa de les modalitats de 300 €, 1.000 €, 75 € i 200 €, basada exclusivament en les bases."
+        }
+      ]
+    },
+    {
+      "title": "Sol·licitud i registre d'entrada",
+      "purpose": "Detallar com es presenta la sol·licitud, dins de quin termini, per quins canals i quina constància documental ha de quedar al registre",
+      "parent": "Expedient de la persona beneficiària",
+      "page_notes": [
+        {
+          "content": "Separa la informació que aporta la persona interessada de les dades que l'Ajuntament comprova d'ofici."
+        }
+      ]
+    },
+    {
+      "title": "Documentació de les persones sol·licitants",
+      "purpose": "Crear una llista de comprovació de la documentació comuna i específica exigida per cada modalitat d'ajut",
+      "parent": "Expedient de la persona beneficiària",
+      "page_notes": [
+        {
+          "content": "Per a cada document indica qui l'aporta, què acredita, a quina modalitat correspon i si la comprovació pot ser d'ofici."
+        }
+      ]
+    },
+    {
+      "title": "Revisió, comprovació i esmena",
+      "purpose": "Explicar el control formal i material de la sol·licitud, les consultes d'ofici, la petició de documentació addicional i el tractament de les mancances",
+      "parent": "Expedient de la persona beneficiària",
+      "page_notes": [
+        {
+          "content": "No atribueixis terminis d'esmena ni efectes jurídics si no apareixen expressament en les fonts."
+        }
+      ]
+    },
+    {
+      "title": "Informe, resolució i notificació",
+      "purpose": "Descriure la instrucció de l'expedient, l'informe de la unitat gestora, la decisió de l'òrgan competent, el termini màxim de resolució i la notificació individual",
+      "parent": "Expedient de la persona beneficiària",
+      "page_notes": [
+        {
+          "content": "Indica els documents produïts en cada pas i diferencia les resolucions definitives de les condicionades."
+        }
+      ]
+    },
+    {
+      "title": "Targeta, càrrega del saldo i incidències",
+      "purpose": "Documentar el lliurament o activació de la targeta nominativa, la càrrega del saldo, la vigència, les restriccions d'ús i la gestió de pèrdues o defectes",
+      "parent": "Expedient de la persona beneficiària",
+      "page_notes": [
+        {
+          "content": "Centra't en les evidències que han de quedar a l'expedient i en les comunicacions amb la persona beneficiària."
+        }
+      ]
+    },
+    {
+      "title": "Expedient d'adhesió del comerç",
+      "purpose": "Organitzar la incorporació i el seguiment dels comerços que accepten les targetes del programa",
+      "page_notes": [
+        {
+          "content": "Diferencia l'expedient d'adhesió del comerç dels expedients individuals de concessió dels ajuts."
+        }
+      ]
+    },
+    {
+      "title": "Sol·licitud, requisits i documentació del comerç",
+      "purpose": "Detallar els requisits d'adhesió, el procediment de sol·licitud, la documentació aportada i les comprovacions municipals d'ofici",
+      "parent": "Expedient d'adhesió del comerç",
+      "page_notes": [
+        {
+          "content": "Inclou una llista de comprovació documental amb document, finalitat, responsable i resultat de la verificació."
+        }
+      ]
+    },
+    {
+      "title": "Obligacions, identificació i seguiment del comerç",
+      "purpose": "Descriure les obligacions durant l'adhesió, l'ús de la imatge «Invertim Ascó», l'acceptació de targetes i les actuacions de seguiment",
+      "parent": "Expedient d'adhesió del comerç",
+      "page_notes": [
+        {
+          "content": "Assenyala quines evidències acrediten el manteniment de les condicions d'adhesió."
+        }
+      ]
+    },
+    {
+      "title": "Presentació i validació de factures",
+      "purpose": "Explicar el circuit de recepció, revisió i aprovació de les factures presentades pels comerços en relació amb l'ús de les targetes",
+      "parent": "Expedient d'adhesió del comerç",
+      "page_notes": [
+        {
+          "content": "Identifica documents d'entrada, comprovacions, incidències i document d'aprovació sense inventar passos no previstos."
+        }
+      ]
+    },
+    {
+      "title": "Control, reintegrament i règim sancionador",
+      "purpose": "Descriure els controls posteriors, els incompliments, la revocació o el reintegrament i la documentació necessària per deixar constància de les actuacions",
+      "page_notes": [
+        {
+          "content": "Separa la descripció prevista a les bases de qualsevol procediment general que només provingui de normativa externa."
+        }
+      ]
+    },
+    {
+      "title": "Recursos i revisió de les decisions",
+      "purpose": "Recollir les vies de recurs contra les resolucions, els òrgans davant dels quals es presenten i els terminis indicats en les bases",
+      "page_notes": [
+        {
+          "content": "Presenta la informació de manera operativa i cita amb precisió el fonament documental."
+        }
+      ]
+    },
+    {
+      "title": "Tancament, arxiu i traçabilitat de l'expedient",
+      "purpose": "Proposar una llista final de comprovació per verificar que l'expedient conté les sol·licituds, comprovacions, informes, resolucions, notificacions i evidències de gestió corresponents",
+      "page_notes": [
+        {
+          "content": "No estableixis terminis de conservació documental que no constin en les fonts; identifica les mancances com a qüestions pendents de definir."
+        }
+      ]
+    }
+  ]
+}
